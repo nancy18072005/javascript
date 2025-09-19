@@ -29,7 +29,7 @@ Top Scores:
   { name: 'NANCY', score: 82 },
   { name: 'THOMAS', score: 75 } ]
 
-searching for ravi
+searching for nancy
 { name: 'NANCY', score: 82 }
 
 Any Failure ?
